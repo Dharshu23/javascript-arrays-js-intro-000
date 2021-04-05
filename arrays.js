@@ -19,6 +19,7 @@ function destructivelyAddElementToEndOfArray(myArray, myElement){
 
 function accessElementInArray(){
   var fruits = ["Apple", "Banana", "Berry"];
-  
+  return fruits[0];
+
 
 }
